@@ -56,5 +56,5 @@ Advanced Features: Add daily/weekly reports of website usage. Include a reset bu
 
 OUTPUT:
 
-
+![Image](https://github.com/user-attachments/assets/7577c8df-cf94-4d32-9541-7094cfb5a355)
 
